@@ -1,0 +1,13 @@
+name: couchdb-reindexer
+version: 0.1.0
+
+authors:
+  - Jesus Urias <itsjesusurias@gmail.com>
+
+targets:
+  couchdb-reindexer:
+    main: src/couchdb-reindexer.cr
+
+crystal: 0.23.1
+
+license: MIT
